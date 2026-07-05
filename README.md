@@ -1,1 +1,0 @@
-# zipmart_sales
